@@ -12,6 +12,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Resource Assignment", "Reso
 		..\..\..\Downloads\ResourceAssignment_1_0_0_10.zip = ..\..\..\Downloads\ResourceAssignment_1_0_0_10.zip
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "USD", "USD", "{381729C8-9B1A-4391-90BC-5882B3D85332}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\USD\New folder\USDConfigurations.zip = ..\..\..\Downloads\USD\New folder\USDConfigurations.zip
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -28,6 +33,7 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{FDFC6990-3442-49C9-B85D-E71880ECCC78} = {FAB5D5ED-E53F-4F00-A745-D3AFFA24A246}
+		{381729C8-9B1A-4391-90BC-5882B3D85332} = {FAB5D5ED-E53F-4F00-A745-D3AFFA24A246}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DBDFD579-F026-40C6-A2A8-8DB3753269C4}
